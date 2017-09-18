@@ -1,0 +1,31 @@
+.wrapper{
+  width: 700px;
+  margin: 0px auto;
+  border: 1px solid lightgray;
+  padding: 20px;
+  display: inline-block;
+}
+.header{
+  /*width: 300px;*/
+  border: 2px solid gray;
+  margin: 0px auto;
+  text-align: center ;
+}
+
+.main{
+  display: inline-block;
+  border: 1px solid gray;
+  width: 50%;
+  margin-left: 50px;
+
+}
+
+.nav{
+display: inline-block;
+vertical-align: bottom;
+height: 266px;
+margin-left: 50px;
+border: 1px solid gray;
+text-align: left;
+padding-right: 20px;
+}
